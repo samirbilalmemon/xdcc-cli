@@ -6,6 +6,8 @@
  <meta name="google-site-verification" content="4Rjg8YnufgHBYdLu-gAUsmJasHk03XKYhUXtRMNZdsk" />
 -->
 
+# My fork fixes downloads of files with spaces in the name
+
 # XDCC Command Line Tools
 
 This project provides a simple command line tool which allow you to perform search and retrieval of files on the IRC network through the XDCC protocol. It is based on the popular [goirc](https://github.com/fluffle/goirc) library.
